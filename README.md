@@ -6,7 +6,7 @@ To compile:\
 mkdir build\
 cd build\
 cmake ..\
-make\
+make
 
 To use:\
 treeutils -m all_reroots -i [input_file] -o [output_file]
